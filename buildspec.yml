@@ -24,7 +24,7 @@ phases:
 
     commands:
 
-      - mvn package
+      - mvn clean package
 
       - echo build
 
